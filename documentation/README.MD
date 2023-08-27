@@ -20,7 +20,7 @@ management. DHT plays a crucial role in the DockHive network by incentivizing no
 - `contracts/`: Smart contracts related to the DockHive Token and the DockHive ecosystem.
 - `documentation/`: Detailed documentation about the DHT token, its use cases, and technical details.
 - `resources/`: Additional resources, such as images and videos, related to the DHT project.
-- `LICENSE`: License information for the project.
+
 
 ## Getting Started
 
