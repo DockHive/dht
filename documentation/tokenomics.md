@@ -1,4 +1,4 @@
-# DockHive (DHT) Tokenomics
+ - # DockHive (DHT) Tokenomics
 
 ## Token Supply
 
@@ -18,29 +18,35 @@ Total Supply: 1,000,000,000 DHT
 
 ## Token Sale Prices
 
-- Private Sale Price: $0.001 USD
-- Listing Price: $0.5 USD
+- Private Sale Price: $0.01
+- Public Sale Price: $0.015
 
 ## Circulating Supply on Listing
 
-15% of the total supply, which is 150,000,000 DHT, will be circulating on listing.
+5.5% of the total supply, which is 55,000,000 DHT, will be circulating on the listing.
 
 ## Expected Private Sale Result
 
-- Expected Tokens Sold: 1,000,000,000 DHT (10% of total supply)
-- Expected Amount to Raise: $1,000,000 USD
+- Expected Tokens Sold: 100,000,000 DHT (10% of total supply)
+- Expected Amount to Raise: $1,000,000
+
+## Expected Public Sale Result
+
+- Expected Tokens Sold: 50,000,000 DHT (5% of total supply)
+- Expected Amount to Raise: $750,000
 
 ## Hard Cap
+## Soft Cap
 
-The private sale hard cap is $1 million USD.
+The DHT hard cap is $1,750,000
+The DHT soft cap is $875,000
 
 ## Fully Diluted Valuation
 
 - Total Supply: 1,000,000,000 DHT
-- Listing Price: $0.5 USD
-- Fully Diluted Valuation: $500,000,000 USD
+- Fully Diluted Valuation: $15,000,000
 
 ## Market Cap on Launch
 
-With a circulating supply of 150,000,000 DHT on listing and a listing price of $0.5 USD, the market cap on launch will be $75,000,000 USD.
+With a circulating supply of 55,000,000 DHT on listing and a listing price of $0.015, the market cap on launch will be $825,000
 
