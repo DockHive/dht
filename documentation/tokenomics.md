@@ -36,9 +36,9 @@ Total Supply: 1,000,000,000 DHT
 - Expected Amount to Raise: $750,000
 
 ## Hard Cap
-## Soft Cap
-
 The DHT hard cap is $1,750,000
+
+## Soft Cap
 The DHT soft cap is $875,000
 
 ## Fully Diluted Valuation
