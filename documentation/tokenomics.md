@@ -50,3 +50,6 @@ The DHT soft cap is $875,000
 
 With a circulating supply of 55,000,000 DHT on listing and a listing price of $0.015, the market cap on launch will be $825,000
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3MzgyNTUwMV19
+-->
