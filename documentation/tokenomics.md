@@ -1,4 +1,4 @@
- - # DockHive (DHT) Tokenomics
+ # DockHive (DHT) Tokenomics
 
 ## Token Supply
 
