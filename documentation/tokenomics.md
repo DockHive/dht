@@ -1,55 +1,36 @@
- # DockHive (DHT) Tokenomics
 
-## Token Supply
+Here is the token metrics design rewritten in Markdown format:
 
-Total Supply: 1,000,000,000 DHT
+# Revised Token Metrics Design
 
-## Allocation Breakdown
+**PROJECT
+TICKER:** DOCKHIVEDHT
 
-| Allocation               | Percentage | Number of Tokens (DHT) | Emission/Vesting Schedule                     |
-|--------------------------|------------|------------------------|----------------------------------------------|
-| Mining                   | 50%        | 500,000,000            | Unlocked by node operators as mining rewards, over several years. |
-| Private Sale             | 10%        | 100,000,000            | 0% unlocked at TGE, 10% monthly release for 10 months, starting 2 months after listing. |
-| Public Sale              | 5%         | 50,000,000             | 10% unlocked at TGE, 15% monthly release for 6 months, starting 1 month after listing. |
-| Marketing                | 5%         | 50,000,000             | 0% unlocked at TGE, 3.33% monthly release for 30 months, starting 1 month after listing. |
-| Liquidity Provision      | 5%         | 50,000,000             | Fully unlocked at TGE to seed the initial liquidity pool. |
-| Community Incentives     | 10%        | 100,000,000            | Emissions dependent on community uptake, vesting over years. |
-| Team                     | 15%        | 150,000,000            | 0% unlocked at TGE, 5% monthly release for 20 months, starting 3 months after listing. |
+**Supply:** 1 Billion (1,000,000,000) DHT
 
-## Token Sale Prices
+**Allocation:**
 
-- Private Sale Price: $0.01
-- Public Sale Price: $0.015
+| Category | Percentage | Number of Tokens (DHT) | Emission/Vesting Schedule |
+|-|-|-|-|
+| Mining | 50% | 500,000,000.00 | Unlocked by node operators as mining rewards |
+| Private Sale | 10% | 100,000,000 | 2 months lock, then 20% monthly release for 5 months |
+| Public Sale | 5% | 50,000,000 | 40% unlocked at TGE, then 12% monthly release for 5 months |
+| Liquidity Provision | 4% | 40,000,000 | Fully unlocked at TGE to seed the initial liquidity pool |
+| Marketing | 4% | 40,000,000 | 1-month lock, then 4.166% monthly release for 24 months |
+| Partnerships | 3% | 30,000,000 | 1-month lock, then 4.166% monthly release for 24 months | 
+| Staking Rewards | 8% | 80,000,000 | The emission of staking rewards depends on the staking APR (Annual Percentage Return) |
+| Airdrops | 1% | 10,000,000 | Distributed to airdrop campaign participants 2 weeks after TGE |
+| Team | 15% | 150,000,000 | 1-year lock, then 5% monthly release for 20 months |
 
-## Circulating Supply on Listing
+**Total:** 100% | 1,000,000,000
 
-5.5% of the total supply, which is 55,000,000 DHT, will be circulating on the listing.
+* 7% of the total supply is circulating on the listing.
 
-## Expected Private Sale Result
+**Listing Price:** $0.015  
 
-- Expected Tokens Sold: 100,000,000 DHT (10% of total supply)
-- Expected Amount to Raise: $1,000,000
+**Market Cap:** $1.05M  
 
-## Expected Public Sale Result
-
-- Expected Tokens Sold: 50,000,000 DHT (5% of total supply)
-- Expected Amount to Raise: $750,000
-
-## Hard Cap
-The DHT hard cap is $1,750,000
-
-## Soft Cap
-The DHT soft cap is $875,000
-
-## Fully Diluted Valuation
-
-- Total Supply: 1,000,000,000 DHT
-- Fully Diluted Valuation: $15,000,000
-
-## Market Cap on Launch
-
-With a circulating supply of 55,000,000 DHT on listing and a listing price of $0.015, the market cap on launch will be $825,000
-
+**Fully Diluted Market Cap:** $15M
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzgyNTUwMV19
+eyJoaXN0b3J5IjpbMTk1NTIzODIxOCwtMTczODI1NTAxXX0=
 -->
