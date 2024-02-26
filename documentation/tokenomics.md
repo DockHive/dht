@@ -31,5 +31,5 @@
 
 **Fully Diluted Market Cap:** $15M
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDAyNDk0NzQsLTE3MzgyNTUwMV19
+eyJoaXN0b3J5IjpbLTEwNDAyNDk0NzRdfQ==
 -->
