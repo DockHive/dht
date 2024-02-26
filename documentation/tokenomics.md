@@ -2,8 +2,8 @@
 
 # Revised Token Metrics Design
 
-**PROJECT:  DOCKHIVE
-  TICKER:** DHT
+**PROJECT**:  DOCKHIVE
+**TICKER:** DHT
 
 **Supply:** 1 Billion (1,000,000,000) DHT
 
@@ -31,5 +31,5 @@
 
 **Fully Diluted Market Cap:** $15M
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDAyNDk0NzRdfQ==
+eyJoaXN0b3J5IjpbMTQ1OTQwMTA4NiwtMTA0MDI0OTQ3NF19
 -->
