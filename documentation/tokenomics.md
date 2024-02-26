@@ -1,10 +1,9 @@
 
-Here is the token metrics design rewritten in Markdown format:
 
 # Revised Token Metrics Design
 
-**PROJECT
-TICKER:** DOCKHIVEDHT
+**PROJECT:  DOCKHIVE
+  TICKER:** DHT
 
 **Supply:** 1 Billion (1,000,000,000) DHT
 
@@ -32,5 +31,5 @@ TICKER:** DOCKHIVEDHT
 
 **Fully Diluted Market Cap:** $15M
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTIzODIxOCwtMTczODI1NTAxXX0=
+eyJoaXN0b3J5IjpbLTEwNDAyNDk0NzQsLTE3MzgyNTUwMV19
 -->
